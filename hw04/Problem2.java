@@ -1,4 +1,4 @@
-package hw04;
+//package hw04;
 import java.util.*;
 public class Problem2 {
     private static Scanner userInput;

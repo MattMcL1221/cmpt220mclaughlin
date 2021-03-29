@@ -9,7 +9,7 @@ If String contains "ATG" - do {blah}
 If String contains "TAG" || "TAA" || "TGA" - do {end blah & output}
 Learned methods - so is there a method that can read strings as opposed to arrays which haven't been learned?
 */
-package hw04;
+//package hw04;
 import java.util.*;
 public class Problem3 {
     private static Scanner userInput;
