@@ -19,6 +19,7 @@ public class Problem2 {
 
     public static void title(String s) {
         String result = " ";
+        // You should not use arrays.
         String[] stringSplit = s.split(result); //searches for spaces based on var string result and splits them into an array/multiple strings
         String combineStrings = "";
         for (int i=0; i < stringSplit.length; i++) { //for every iteration
