@@ -3,7 +3,7 @@ Since the program must gather the # of digits AND how many times they are used
 You could probably use two for loops as there are two columns of numbers
 */
 
-package hw06;
+//package hw06;
 
 import java.util.*;
 
