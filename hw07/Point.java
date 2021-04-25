@@ -13,7 +13,7 @@ Problem 3:
 
 */
 
-package hw07;
+//package hw07;
 
 public class Point {
     private double x;

@@ -1,4 +1,4 @@
-package hw07;
+//package hw07;
 import java.util.*;
 public class Problem2 {
     private static Scanner userInput;
