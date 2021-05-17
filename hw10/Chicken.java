@@ -1,4 +1,4 @@
-package hw10;
+//package hw10;
 
 class Chicken extends Animal {
     @Override

@@ -1,4 +1,4 @@
-package hw10;
+//package hw10;
 
 class Tiger extends Animal {
     @Override

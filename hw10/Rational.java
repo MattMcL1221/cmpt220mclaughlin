@@ -1,4 +1,4 @@
-package hw10;
+//package hw10;
 public class Rational extends Number implements Comparable<Rational> {
     // Data fields for numerator and denominator
     private long numerator = 0;

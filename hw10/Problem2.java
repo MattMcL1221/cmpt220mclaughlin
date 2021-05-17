@@ -1,4 +1,4 @@
-package hw10;
+//package hw10;
 public class Problem2 {
     public static void main(String[] args) {
         Animal[] list = new Animal[5];

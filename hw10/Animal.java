@@ -1,4 +1,4 @@
-package hw10;
+//package hw10;
 abstract class Animal implements Cloneable, Comparable<Animal> {
     private double weight;
     public double getWeight() {

@@ -1,4 +1,4 @@
-package hw10;
+//package hw10;
 public class Time implements Cloneable, Comparable<Time>{
     private long time;
     //need to take a look at the flights and itinerary java files to use as a reference 

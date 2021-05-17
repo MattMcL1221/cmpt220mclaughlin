@@ -1,4 +1,4 @@
-package hw10;
+//package hw10;
 
 import java.util.*;
 
